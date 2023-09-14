@@ -1,5 +1,5 @@
 # 🧑🏻‍🦱 About Me:
-Helo Guys. I am InvraNet, my real name is Michael.
+Hello. I'm Michael. Below this is more about me. I use Colemak layout. I have a Youtube, Twitter, Discord. I'm using Arch Linux as a daily driver. I'm 14 years old
 
 # My Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
