@@ -6,7 +6,7 @@ Hello. I'm Michael. Below this is more about me. I use Colemak layout. I have a 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
 
-# 📊 My GitHub Stats:
+# 📊 My Stats:
 ![](https://github-readme-stats.vercel.app/api?username=InvraNet&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=INvraNet&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=InvraNet&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
