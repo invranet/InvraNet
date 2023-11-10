@@ -13,3 +13,6 @@ Hello. I'm a GNU/Linux User. I game on Windows though (FUCK YOU UBISOFT!) My nam
 
 ---
 [![](https://visitcount.itsvg.in/api?id=InvraNet&icon=0&color=0)](https://visitcount.itsvg.in)
+
+# Are you wondering what i'm listening to on spotify?
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31okfjb3oknfqulujhh5eh7fwrue&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31okfjb3oknfqulujhh5eh7fwrue&redirect=true)
