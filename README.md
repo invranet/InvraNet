@@ -10,4 +10,4 @@ Hello, I am Michael, I live insde of Morewell, Victoria. I have a passion in Tec
 ![C#](https://img.shields.io/badge/C_Sharp-%23323330.svg?style=for-the-badge&logo=csharp)
 
 #### Music
-[![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=InvraNet&bg_color=000000&footer_style=compact_stats&show_user=header&loved=true&loved_style=4)](https://last.fm/users/InvraNet)
+[![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=InvraNet&bg_color=000000&footer_style=compact_stats&show_user=header&loved=true&loved_style=4)](https://last.fm/user/InvraNet)
