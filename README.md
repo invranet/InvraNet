@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile!
+# Welcome to My GitHub Profile
 
 Hi there! 👋 I'm Michael, a Basement dweller from Morewell, Victoria. I have an extensive passion for computers, and Network Engineering. I am always learning new languages, frameworks, or tools. When I'm not inside of my cave rotting away trying to get code to work, I might be rotting away listening to music. If you couldn't tell, I think my favourite artist is Status Quo.
 
@@ -21,8 +21,11 @@ And using these systems: <br>
 ![Windows 10](https://img.shields.io/badge/Windows%2010-%230079D1.svg?style=for-the-badge&logo=windows&logoColor=white)<br>
 Not so much this one: <br>
 ![macOS](https://img.shields.io/badge/macOS-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
+
 ## Setup
+
 ### Main workstation
+
 * Intel Core i5 10400
 * 64 GB Ram @ 3200Mhz CL16
 * GTX 1660-Ti (For Virtual Machines)
@@ -32,14 +35,17 @@ Not so much this one: <br>
 * MSI Z 490-A PRO
 
 ### Work Machines
+
+* Macbook Pro 14-inch Nov 2024, 16 GB Ram, M4.
 * Acer Nitro 5 AN515-58
-* Macbook Air 2022 Early
 
 ### Networking Equiptment
+
 * Unifi Dream Machine Pro
 * Some random TP-Link Switch (listed actually only my website)
 * Unifi U6-Lite Access Point
 
 ## Music
+
 [![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=InvraNet&bg_color=000000&footer_style=compact_stats&show_user=header&loved=true&loved_style=4)](https://last.fm/user/InvraNet) <br>
 My music on Last.FM
